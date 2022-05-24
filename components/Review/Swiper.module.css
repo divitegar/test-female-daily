@@ -1,0 +1,43 @@
+.swiperHome :global(.swiper-pagination) {
+  cursor: pointer;
+}
+
+.swiperHome :global(.swiper-pagination-bullet) {
+  opacity: 100;
+  background-color: #fddae0;
+  width: 10px;
+  height: 10px;
+  margin: 6px;
+  border-width: 2px;
+  border-color: transparent;
+}
+
+.swiperHome :global(.swiper-pagination-bullet-active) {
+  background-color: #db284e;
+}
+
+.swiperHome :global(.swiper-button-prev) {
+  width: 20px;
+  top: 94%;
+  left: 40%;
+  z-index: 20;
+}
+
+.swiperHome :global(.swiper-button-prev:after) {
+  content: "prev";
+  color: #db284e;
+  font-size: 20px;
+}
+
+.swiperHome :global(.swiper-button-next) {
+  width: 20px;
+  top: 94%;
+  right: 40%;
+  z-index: 20;
+}
+
+.swiperHome :global(.swiper-button-next:after) {
+  content: "next";
+  color: #db284e;
+  font-size: 20px;
+}

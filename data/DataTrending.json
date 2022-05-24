@@ -1,0 +1,55 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": [
+        {
+            "image": "https://image.femaledaily.com/dyn/200/images/prod-pics/product_1641791727_WL_acne_cr_800x800.png",
+            "rating": "4.5",
+            "total": "30",
+            "name": "WHITELAB",
+            "desc": "Acne Cream"
+        },
+        {
+            "image": "https://image.femaledaily.com/dyn/200/images/prod-pics/product_1650352228_13_Dubai_L_800x800.jpg",
+            "rating": "4.8",
+            "total": "20",
+            "name": "WARDAH",
+            "desc": "Colorfit Last All Day Lip Paint Around The World"
+        },
+        {
+            "image": "https://image.femaledaily.com/dyn/200/images/prod-pics/product_1647236419_hydrasooth_800x800.jpg",
+            "rating": "4.6",
+            "total": "70",
+            "name": "AZARINE COSMETICS",
+            "desc": "Hydrasoothe Sunscreen Gel SPF 45+++"
+        },
+        {
+            "image": "https://image.femaledaily.com/dyn/200/images/prod-pics/product_1641791727_WL_acne_cr_800x800.png",
+            "rating": "4.5",
+            "total": "30",
+            "name": "WHITELAB",
+            "desc": "Acne Cream"
+        },
+        {
+            "image": "https://image.femaledaily.com/dyn/200/images/prod-pics/product_1609926959_White_Truf_800x800.jpg",
+            "rating": "4.5",
+            "total": "30",
+            "name": "D'ALBA",
+            "desc": "White Truffle Return Oil Cream Cleanser"
+        },
+        {
+            "image": "https://image.femaledaily.com/dyn/200/images/prod-pics/product_1645007352_Skin_Game__800x800.png",
+            "rating": "4.5",
+            "total": "34",
+            "name": "SKIN GAME",
+            "desc": "Happy Hue"
+        },
+        {
+            "image": "https://image.femaledaily.com/dyn/200/images/prod-pics/product_1649316013_AVOSKIN_Mi_800x800.jpg",
+            "rating": "4.9",
+            "total": "30",
+            "name": "AVOSKIN",
+            "desc": "Miraculous Divine Aura Ampoule"
+        }
+    ]
+}
