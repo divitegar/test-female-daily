@@ -15,7 +15,7 @@ export default function HeaderCard({ title, subtitle, link }) {
           <Link href={link ?? `#`}>
             <a className="text-primary-red">
               <div className="flex items-center">
-                <p className="text-xs">See More</p>
+                <p className="text-xs md:text-base">See More</p>
                 <img
                   src="/assets/icon/arrow-right.png"
                   className="w-5 h-5 ml-0 md:ml-4"
